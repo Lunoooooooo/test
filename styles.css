@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     padding: 20px;
     transition: background 0.5s, color 0.5s;
-    color: firebrick;
+    color: coral;
 }
 
 .dark-theme {
